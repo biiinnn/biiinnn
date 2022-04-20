@@ -1,5 +1,10 @@
 ### Hi there 👋
+- 👋 Hi, I'm Yebin Lee
+- 👀 I'm interested in Data Mining, Machine Learning and Natural Language Processing
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me via email: yebin@ds.seoultech.ac.kr
 
+[![biiinnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=biiinnn)](https://github.com/biiinnn/github-readme-stats)
 <!--
 **biiinnn/biiinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
