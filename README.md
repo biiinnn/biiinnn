@@ -1,4 +1,4 @@
-### Hi there 👋
+
 - 👋 Hi, I'm Yebin Lee
 - 👀 I'm interested in Data Mining, Machine Learning and Natural Language Processing
 - 🌱 I’m currently learning Data Science
