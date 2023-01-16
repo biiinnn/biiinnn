@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me via email: yebin@ds.seoultech.ac.kr
 
-[![biiinnn's github stats](https://github-readme-stats.vercel.app/api?username=biiinnn)](https://github.com/biiinnn/github-readme-stats)
+[![biiinnn's github stats](https://github-readme-stats.vercel.app/api?username=biiinnn)]()
 **biiinnn/biiinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
